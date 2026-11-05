@@ -3,7 +3,7 @@ DESAFIO NOTEBOOKLM: <br/>
 https://notebook.google.com/notebook/d6d53b0f-42d4-4c18-b478-9e026ca22372?utm_source=gemini_notebook&utm_medium=referral
 tema: Validação de investimentos <br/>
 perguntas e respostas: <br/>
-PERGUNTA - faça uma análise fundamentalista para saber se a VALE3 é um bom investimento a longo prazo
+PERGUNTA - faça uma análise fundamentalista para saber se a VALE3 é um bom investimento a longo prazo <br/>
 RESPOSTA -
 A **Vale (VALE3)** é uma das maiores empresas da Bolsa brasileira e possui uma posição de liderança global na produção de minério de ferro[1][2]. Contudo, uma análise fundamentalista focada em investimentos de longo prazo revela características operacionais e de valoração (*valuation*) bastante distintas das empresas defensivas tradicionais[3].
 
@@ -33,9 +33,9 @@ A **Vale (VALE3)** é uma das maiores empresas da Bolsa brasileira e possui uma 
 
 * **Cálculo pela Média Histórica de 5 Anos:** Em metodologias voltadas a dividendos (como os Métodos Bazin e Barsi), empresas de *commodities* exigem que a estimativa de **Preço-Teto** seja calculada com base na **média dos proventos dos últimos 5 anos** (em vez de considerar apenas o dividendo do último ano)[4].
 * **Margem de Segurança:** O uso do histórico de 5 anos evita armadilhas de valor (*value traps*) originadas por distribuições atípicas em picos de ciclo, permitindo avaliar com segurança se o preço de mercado da ação oferece margem de entrada atrativa para o longo prazo[4].
-
-PERGUNTA - quero investir em PETR4, é uma empresa sólida?
-RESPOSTA - 
+<br/>
+PERGUNTA - quero investir em PETR4, é uma empresa sólida? <br/>
+RESPOSTA -  <br/>
 Nas fontes disponíveis, a **Petrobras (PETR4)** é abordada principalmente sob a ótica de geração de proventos e enquadramento em metodologias de investimento:
 
 * **Geração de Caixa e Dividendos:** A empresa demonstra forte capacidade operacional e geração de caixa[1], tendo distribuído volumes expressivos de dividendos impulsionados pelos ciclos de alta das *commodities*[2]. Também são mencionadas notícias sobre expansão operacional, como descobertas na Margem Equatorial[3].
