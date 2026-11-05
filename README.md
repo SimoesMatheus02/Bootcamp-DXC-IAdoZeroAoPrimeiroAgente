@@ -1,5 +1,6 @@
 BOOTCAMP DIO DXC IA DO ZERO AO PRIMEIRO AGENTE:
 DESAFIO NOTEBOOKLM:
+https://notebook.google.com/notebook/d6d53b0f-42d4-4c18-b478-9e026ca22372?utm_source=gemini_notebook&utm_medium=referral
 tema: Validação de investimentos
 perguntas e respostas:
 PERGUNTA - faça uma análise fundamentalista para saber se a VALE3 é um bom investimento a longo prazo
